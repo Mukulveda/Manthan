@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/Manthan933">
     <img src="https://avatars3.githubusercontent.com/u/74331410?s=400&u=7b6f3cd00fcf7091d337c377229c359d7c3c5639&v=4" alt="Logo" width="150">
-  </a>
+  </a>  
 
   <h3 align="center">MANTHAN</h3>
   <h3 align="center">उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत।</h3>
