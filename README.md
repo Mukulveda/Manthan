@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/Manthan933/Manthan/issues">Request Feature</a>
   </p>
-</p>
+</p>   
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
