@@ -5,7 +5,7 @@ const cors = require('cors');
 const connectDB = require('./config/db');
 const path = require('path');
 
-const app = express(); 
+const app = express();   
  
 // Init middleware
 app.use(express.json({ limit: '30mb', extended: true }));
